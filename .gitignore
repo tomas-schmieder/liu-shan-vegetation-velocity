@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# not redistributed: course/lab guide and the copyrighted paper and its extracted figure images
+Tomas_Research.docx
+*.pdf
+digitize/fig-*.png
+digitize/ov_*.png
+digitize/t2-*.png
